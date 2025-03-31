@@ -2,8 +2,6 @@
 
 <img src="https://github.com/monkey531/assets/blob/main/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
-<img  src= "https://github.com/monkey531/assets/blob/main/75434191/68ba38fe-129a-4d85-be33-62eb4ba50c05"  width="100%" alt="marginline"/>
-
 <div align="center"> 
 <p style="font-size: medium"><b>Profile Views</b></p>
   <img src="https://profile-counter.glitch.me/monkey531/count.svg" alt="profile vistor count"/><br><br>
@@ -22,9 +20,9 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/monkey531/monkey531/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/monkey531/monkey531/blob/output/github-contribution-grid-snake-light.svg" />
-    <img alt="github-snake" src="https://github.com/monkey531/monkey531/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/monkey531/assets/blob/main/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/monkey531/assets/blob/main/github-contribution-grid-snake-light.svg" />
+    <img alt="github-snake" src="https://github.com/monkey531/assets/blob/main/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 </div>
