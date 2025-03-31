@@ -89,13 +89,9 @@
 <p  style="animation: fadein 2s;">
   <img src="https://github-contributor-stats.vercel.app/api?username=monkey531&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="48%" />
 </p>
-
 </div> 
 
-
 <img src="https://github.com/monkey531/assets/blob/main/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
-
-  <img src="https://github.com/monkey531/assets/blob/main/75434191/b82b27ff-26ed-498b-b8ca-bd575e5c62a9" width="100%" />
 
 <div align="center">
   <img src="https://github.com/monkey531/assets/blob/main/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="left" alt="flame"/>
