@@ -63,9 +63,6 @@
 
 <br>
 <div align="center">
-  <img src="https://github.com/monkey531/assets/blob/main/75434191/88d74967-e5e4-4423-836a-7f3c1638e5b4" alt="pixel guy using computer" width="100%" /><br>
-</div>
-<div align="center">
 
   <img src="https://github.com/monkey531/assets/blob/main/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="left"/>
 <img src="https://github.com/monkey531/assets/blob/main/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="right"/>
