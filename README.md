@@ -10,7 +10,7 @@
 </a>
 <br>
 <br>
-<a href="https://wakatime.com/@muhammadfiaz">
+<a href="https://wakatime.com/">
   <img src="https://wakatime.com/badge/user/018b0e4a-91f9-4e8b-83fb-66d053611dc3.svg" alt="Wakatime Total Time Badge" />
 </a>
 <br>
@@ -32,16 +32,7 @@
 
 </div>
 <br>
-<div align="center">
-<img src="https://github.com/monkey531/assets/blob/main/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="left"/>
-<img src="https://github.com/monkey531/assets/blob/main/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="right"/>
-  <h2> ⭐ My Open-Source Badges </h2><br>
-<br>
-  
-[![An image of my Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muhammadfiaz)](https://holopin.io/@muhammadfiaz)
 
-  
-</div> 
 <img src="https://github.com/monkey531/assets/blob/main/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
 <br>
